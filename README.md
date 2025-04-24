@@ -1,5 +1,5 @@
 
-# 👋 Hi, I’m Sunnatillo Sharipov
+# 👋 Hi, I’m Sunnatillo Sharif
 
 - 🌍 I’m from Uzbekistan🇺🇿
 - 💻 I’m a **Node.js backend developer**  
