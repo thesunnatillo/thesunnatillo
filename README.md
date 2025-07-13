@@ -4,7 +4,7 @@
 - 🌍 I’m from Uzbekistan🇺🇿
 - 💻 I’m a **Node.js backend developer**  
 - 🛠️ My skills:  
-  - JavaScript, TypeScript  
+  - JavaScript, TypeScript
   - Express.js, Nest.js  
   - TypeORM  
   - PostgreSQL, MongoDB  
