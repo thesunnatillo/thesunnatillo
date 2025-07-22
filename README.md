@@ -10,5 +10,5 @@
   - PostgreSQL, MongoDB  
   - Redis, BullMQ, RabbitMQ  
 - 📫 How to reach me:  
-  - Email: sunnatillocoder@gmail.com  
+  - Email: s.sharipov@pstech.uz
   - Telegram: [@thesunnatillo](https://t.me/thesunnatillo)
